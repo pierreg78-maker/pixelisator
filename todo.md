@@ -1,0 +1,8 @@
+- [x] Vérifier l’accessibilité du dépôt GitHub pixelisator.
+- [x] Indiquer le chemin d’export le plus rapide depuis l’interface du projet.
+- [x] Vérifier l’incidence du changement du 25 août sur l’hébergement publié.
+- [x] Identifier le blocage empêchant la publication dans le dépôt GitHub.
+- [x] Proposer ou préparer la procédure de publication adaptée.
+- [x] Inspecter la configuration GitHub Pages et la structure du dépôt.
+- [x] Préparer une automatisation de déploiement GitHub Pages si nécessaire.
+- [ ] Activer la source GitHub Actions dans les réglages GitHub Pages et déclencher le premier déploiement.
